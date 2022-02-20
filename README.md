@@ -1,5 +1,5 @@
 <html>
-  <h1>Leonardo Henrique - Full Stack Developer / Devops</h1>
+  <h1>Leonardo Henrique - Full Stack Developer / DevOps</h1>
   <h5>Passionate about understand how systems are structed and automate any kind of thing with technology, focused on continuous integration and continuous delivery of systems.</h5>
   <br>
   
